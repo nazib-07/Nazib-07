@@ -18,7 +18,5 @@ Skills: HTML / CSS3 / JavaScript/ C++
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nazib-07/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Nazib-07)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nazib-07)  
 
