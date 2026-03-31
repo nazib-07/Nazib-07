@@ -11,8 +11,6 @@ Skills: HTML / CSS / Javascript / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazib-07)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazib-07)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazib-07&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nazib-07)  
