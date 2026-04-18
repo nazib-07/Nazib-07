@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazib</h1>
 <h3 align="center">Web Development | Front-end-development</h3>
-# 💫 About Me:
+<h1>💫 About Me:</h1><br>
 🔭 I’m currently working on Shikho as a Drawer<br>👯 I’m looking to collaborate on git hub<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML, CSS, JavaScript, React<br>💬 Ask me about email<br>⚡ Fun fact 2D animation
 
 
